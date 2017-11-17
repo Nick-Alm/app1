@@ -1,6 +1,7 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 14px "Courier New", Helvetica, Arial, sans-serif;
+  background-color: #4f845b;
 }
 
 a {
@@ -8,12 +9,16 @@ a {
 }
 
 .btn{
-    color: green;
+    color: white;
     padding: 20px;
     border-radius: 15px;
     margin-left: 10px;
     background-color: black;
 }
-.button-primary{
-    
+.menubar{
+    float: left;
+    width: 100%;
+    border-radius: 15px;
+    background-color: yellow;
+    margin-bottom: 5em;
 }
